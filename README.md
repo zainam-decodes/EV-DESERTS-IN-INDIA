@@ -1,4 +1,4 @@
-# India EV Infrastructure Gap Analysis Dashboard 🇮🇳⚡
+# India EV Infrastructure Gap Analysis Dashboard⚡
 
 A data-driven analytics project evaluating regional disparities, growth timelines, and localized grid strains within India’s electric vehicle ecosystem. This 3-page interactive Tableau dashboard identifies critical bottlenecks blocking sustainable EV transitions across 36 States and Union Territories.
 
@@ -32,14 +32,4 @@ A data-driven analytics project evaluating regional disparities, growth timeline
 * **BI & Visualization:** Tableau Desktop (Advanced parameters, spatial mapping, custom dual-axis timelines, and condition-mapped color saturation).
 * **Data Engineering:** SQL / Excel (Data cleaning, normalizing geographic naming conventions, and modeling the unified CDI metric).
 
----
 
-## 📂 Repository Structure
-
-```directory
-├── data/
-│   ├── raw/                  # Source VAHAN and charging registry datasets
-│   └── processed/            # Aggregated and modeled data extracts
-├── workbook/
-│   └── ev_infrastructure_gap_india.twbx   # Packaged Tableau Workbook
-└── README.md                 # Project Documentation
